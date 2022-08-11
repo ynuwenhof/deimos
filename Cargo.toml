@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "deimos_client",
+    "deimos_server"
+]
